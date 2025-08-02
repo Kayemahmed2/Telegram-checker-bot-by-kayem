@@ -1,7 +1,3 @@
-
 python-telegram-bot==21.3
 telethon==1.40.0
 python-dotenv==1.0.0
-asyncio
-logging
-concurrent.futures
